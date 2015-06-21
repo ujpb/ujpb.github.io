@@ -1842,7 +1842,6 @@
 	}
 
 	p {
-		text-indent: 50px;
 		text-align: left;
 		letter-spacing: -0.025em;
 	}
@@ -1858,6 +1857,7 @@
 		font-size: 2em;
 	}
 
+
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 			color: inherit;
 			text-decoration: none;
@@ -1869,7 +1869,7 @@
 		}
 
 	h2 {
-		font-size: 1.75em;
+		font-size: 2.2em;
 		letter-spacing: -0.025em;
 	}
 
