@@ -1841,11 +1841,21 @@
 		margin: 0 0 2em 0;
 	}
 
+	p {
+		text-indent: 50px;
+		text-align: left;
+		letter-spacing: -0.025em;
+	}
+
 	h1, h2, h3, h4, h5, h6 {
 		color: inherit;
 		font-weight: 600;
 		line-height: 1.75em;
 		margin-bottom: 1em;
+	}
+
+	h1 {
+		font-size: 2em;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -2475,10 +2485,10 @@
 /* Banner */
 
 	#banner {
-		background-image: url("../../images/banner.jpg");
+		background-image: url("../../images/cropped-UJPB-banner-wide.png");
 		background-position: center center;
 		background-size: cover;
-		height: 28em;
+		height: 20em;
 		text-align: center;
 		position: relative;
 	}
@@ -2670,7 +2680,7 @@
 		/* Banner */
 
 			#banner {
-				height: 20em;
+				height: 17em;
 			}
 
 		/* Wrapper */
