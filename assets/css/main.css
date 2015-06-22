@@ -48,6 +48,11 @@
 		-webkit-text-size-adjust: none;
 	}
 
+	ul {
+	    margin-left: 10px;
+	    list-style-type: circle;
+	 }
+
 /* Box Model */
 
 	*, *:before, *:after {
@@ -1854,7 +1859,7 @@
 	}
 
 	h1 {
-		font-size: 2em;
+		font-size: 1.5em;
 	}
 
 
@@ -1869,7 +1874,7 @@
 		}
 
 	h2 {
-		font-size: 2.2em;
+		font-size: 2em;
 		letter-spacing: -0.025em;
 	}
 
@@ -1920,7 +1925,7 @@
 	}
 
 		header.major h2 {
-			font-size: 2.25em;
+			font-size: 2.2em;
 		}
 
 		header.major p {
@@ -3024,7 +3029,7 @@
 			}
 
 			h2 {
-				font-size: 1.25em;
+				font-size: 1.75em;
 				letter-spacing: 0;
 				line-height: 1.35em;
 			}
