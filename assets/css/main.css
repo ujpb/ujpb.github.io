@@ -2490,7 +2490,7 @@
 /* Banner */
 
 	#banner {
-		background-image: url("../../images/cropped-UJPB-banner-wide.png");
+		background-image: url("../../images/cropped-UJPB-banner-wide-cp.png");
 		background-position: center center;
 		background-size: cover;
 		height: 20em;
@@ -2641,7 +2641,7 @@
 		/* Banner */
 
 			#banner {
-				height: 24em;
+				height: 15em;
 			}
 
 	}
@@ -2685,7 +2685,7 @@
 		/* Banner */
 
 			#banner {
-				height: 17em;
+				height: 14em;
 			}
 
 		/* Wrapper */
