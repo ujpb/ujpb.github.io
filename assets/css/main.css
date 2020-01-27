@@ -3232,6 +3232,7 @@ team section
 
 .team-hover {
     position: absolute;
+    height: 98%;
     top: 0;
     left: 0;
     bottom: 0;
@@ -3284,8 +3285,10 @@ team section
     transition: all 0.3s 0.2s;
     font-size: 35px;
 }
+/*this thingy fixes the bio text*/
 .desk, .desk h4, .team-hover .s-link a {
     text-align: center;
+    line-height: 100%;
     color: #222;
 }
 .team-member .s-link a {
