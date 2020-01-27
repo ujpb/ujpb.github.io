@@ -3230,6 +3230,7 @@ team section
     position: relative;
 }
 
+/*this thingy let me change the size of overlay bio box*/
 .team-hover {
     position: absolute;
     height: 98%;
